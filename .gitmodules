@@ -1,0 +1,6 @@
+[submodule "contracts"]
+	path = contracts
+	url = git@github.com:patrykomiotek/contracts.git
+[submodule "web-app"]
+	path = web-app
+	url = git@github.com:patrykomiotek/web-app.git
